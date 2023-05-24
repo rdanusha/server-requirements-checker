@@ -35,6 +35,12 @@ chmod +x version-checker.sh
 
 10. To exit the script, simply close the terminal or press `Ctrl + C` if it is still running.
 
+## Screenshots
+
+![screenshot-1](https://github.com/rdanusha/version-checker/assets/3851900/19bc0d5a-4440-499a-bfbb-959c21d1e120)
+![screenshot-2](https://github.com/rdanusha/version-checker/assets/3851900/da1cd4a7-4df2-4e1a-bc5b-2e6052f71544)
+
+
 ## License
 
 This script is provided under the [MIT License](LICENSE).
