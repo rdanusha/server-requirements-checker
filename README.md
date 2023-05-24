@@ -1,5 +1,4 @@
-# Version Checker Shell Script
-
+# Version Checker
 This shell script is a useful tool for checking and managing the versions of PHP, Node.js, NPM, and Composer on your system. It enables you to check the installed versions and conveniently configure the desired versions by editing the script file.
 
 ## Usage
